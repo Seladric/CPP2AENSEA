@@ -6,6 +6,7 @@
  */
 class Test{
 	int m_vie = 100;
+	int m_end = 15;
 };
 
 
